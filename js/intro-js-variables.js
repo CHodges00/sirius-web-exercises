@@ -41,7 +41,21 @@
 // TODO: Using the above, log to the console (hint, hint) various numbers, strings, and booleans
 //  --> At least 3 of each
 
+console.log(42);
+console.log(-80);
+console.log(.08);
+console.log("Purple");
+console.log("Lets " + "GOOOOO !");
+console.log("Turtles + " + "Mutants" + " " + "=" + " " + "Rat");
+console.log(true);
+console.log(false);
+console.log(!true);
+
+
 // TODO: What happens when you log to the console a variable which has no value? (var num;)
+
+var num;
+console.log(num);
 
 // TODO: ***HINT*** If your console gets crowded with outputs, just press cmd+l (ctrl+l) to clear it
 
